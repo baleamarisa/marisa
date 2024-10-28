@@ -1,4 +1,5 @@
 sir=(" Horoscop 21 octombrie 2024! ")
+print(sir)
 nr_caractere_sir=len(sir)
 jumatate=(nr_caractere_sir//2)
 jumatate1=sir[:jumatate]
